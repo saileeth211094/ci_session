@@ -7,7 +7,7 @@ def hello(what):
 
 
 def say_what():
-    return 'Python is the best'
+    return 'World'
 
 
 def main():
